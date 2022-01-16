@@ -1,0 +1,42 @@
+background img url :
+https://gcdn.pbrd.co/images/HSrrK0mSkvxf.png?o=1
+bluebg url:
+https://gcdn.pbrd.co/images/rUa4fGflJQuy.jpg?o=1
+dna url:
+https://gcdn.pbrd.co/images/5as2bjCFC17L.jpg?o=1
+eye url:
+https://gcdn.pbrd.co/images/HrqoEG4XsZG7.jpg?o=1
+following robot url:
+
+robothandshake:
+https://gcdn.pbrd.co/images/y4Nie8iqqcnq.jpg?o=1
+robobg url:
+https://gcdn.pbrd.co/images/pAZNiDNy83oS.jpg?o=1
+techbg url:
+https://gcdn.pbrd.co/images/4JYf6XhxAoEX.jpg?o=1
+youtube channel url:
+https://gcdn.pbrd.co/images/jahHog1UqALm.jpg?o=1
+channel banner image url:
+https://gcdn.pbrd.co/images/6ELJRubTwL3V.jpg?o=1
+
+about:
+This website is all about Science and Engineering. As a science lover, I
+       This channel is all about Science and Engineering. As a science lover, I always try my best to bring creativity in every aspect of science. I believe that science is nothing but nature's way of telling us that why and how things happen in life. Every thing wheather its usefull or not brings an opportunity to create something new , hence with this motivation we should keep on creating extraordinary things . As a science lover its my duty to bring craze of science in every youngsters. With the mixture of science and creativity , we can create something of which our country will feel proud of............
+
+why programming:
+Technology production is an essential part of an evolving world. This means that computer programming is exceptionally important for our future as a global society. Computer programming degree graduates can help create this future by automating processes, collecting data, analyzing information and sharing knowledge to continuously innovate and improve upon existing processes.
+
+    This means that, while computer programming is extremely important today, it may be even more impactful in the future. As computer programmers across the world work to learn new ways of communicating with machines and computers, the field will continue to grow. Earning your computer programming degree now means you can be part of that research and testing to develop functions that can help society.
+    
+    Computer programming is important today because so much of our world is automated. Humans need to be able to control the interaction between people and machines. Since computers and machines are able to do things so efficiently and accurately, we use computer programming to harness that computing power.
+science and tech:
+Science, technology and innovation each represent a successively larger category of activities which are highly interdependent but distinct. Science contributes to technology in at least six ways: (1) new knowledge which serves as a direct source of ideas for new technological possibilities; (2) source of tools and techniques for more efficient engineering design and a knowledge base for evaluation of feasibility of designs; (3) research instrumentation, laboratory techniques and analytical methods used in research that eventually find their way into design or industrial practices, often through intermediate disciplines; (4) practice of research as a source for development and assimilation of new human skills and capabilities eventually useful for technology; (5) creation of a knowledge base that becomes increasingly important in the assessment of technology in terms of its wider social and environmental impacts; (6) knowledge base that enables more efficient strategies of applied research, development, and refinement of new technologies.
+
+    The converse impact of technology on science is of at least equal importance: (1) through providing a fertile source of novel scientific questions and thereby also helping to justify the allocation of resources needed to address these questions in an efficient and timely manner, extending the agenda of science; (2) as a source of otherwise unavailable instrumentation and techniques needed to address novel and more difficult scientific questions more efficiently.
+    
+    Specific examples of each of these two-way interactions are discussed. Because of many indirect as well as direct connections between science and technology, the research portfolio of potential social benefit is much broader and more diverse than would be suggested by looking only at the direct connections between science and technology.
+robotics and AI:
+What do you call a machine that looks like a human and can even act like a human in certain situations? If you guessed Robot, you are correct!!! And Robotics is a field that deals with the creation and designing of these mechanical humans. And Robotics these days is not only restricted to the mechanical and electronics domain.
+
+    Nowadays, robots are becoming ‘smarter’ and more efficient with the help of computer science. So, Artificial Intelligence has played a very major role not only in increasing the comforts of humans but also by increasing industrial productivity which includes the quantitative as well as qualitative production and cost-efficiency. This article gives a short insight regarding the importance of Artificial Intelligence in the field of robotics.
+    Artificial Intelligence or AI gives robots a computer vision to navigate, sense and calculate their reaction accordingly. Robots learn to perform their tasks from humans through machine learning which again is a part of computer programming and AI.

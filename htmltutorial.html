@@ -1,0 +1,116 @@
+<!--this is basic html window-->
+<!--use ctrl + / to generate comment in html-->
+<!--lets begin our journey-->
+<!--body ke andar div tag lagane k iadaat daal lo bhai-->
+<!DOCTYPE html>
+<html lang="en">
+<!--HTML  IS STARTED-->
+
+<head>
+
+  <!--head contains meta data which is not dislpayed by the webpage or webrowsers . it is the data which is used by browsers like how to display content etc , search engines and other webservices -->
+  <meta charset="UTF-8">
+  <!--utf-8 is unicode transformation 8-bit... character encoding is the process of represeinting individual character using a corresponding encoding system made up of other symbols and types of data-->
+
+  <!--http-equiv is used for http response , message headers etc examples refreshing a page , set cookie-->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--this is Width etc-->
+  <!-- we can specify keywords related to the document and later these keyword are used by the search engines while indexing your webpage for searching purpose -->
+  <!-- example -->
+  <meta name="keywords" content="technology,science,creativity,coding">
+  <!-- below is author name  -->
+  <meta name="author" content="Shubham Mamgain">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--viewport is set to make your website look good on all devices, this give browser info about how to control the dimensions and scaling of the website-->
+
+  <!-- below is the icon of our website we used favicon for that -->
+  <link rel="shortcut icon" href="favicon.ico.png" type="image/x-icon">
+  <!--this is title of our window-->
+  <title>SCI-TIFIC MAN</title>
+  <!-- <link rel="stylesheet" href="css/style.css">  -->
+  <!-- /* this is css we set background under style tag of html first the name of tag will come for which the css will be applied */ -->
+  <!-- /* # is used to call an id and . is used to  call a class */ -->
+  <!-- /* id is used to target a specific element in html but class is used to specify group of elements */ -->
+
+</head>
+<!--HEAD IS CLOSED-->
+<style>
+  .red {
+    background-color: blue;
+
+  }
+
+  .green {
+    background-color: green;
+  }
+
+  body {
+    background-image: url("https://gcdn.pbrd.co/images/HSrrK0mSkvxf.png?o=1");
+  }
+</style>
+
+
+
+<body>
+  <!--BODY STARTED-->
+  <!--this is heading-->
+  <h1 class="red">SCI-TIFIC MAN</h1>
+  <!--this is paragraph-->
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit incidunt, pariatur sint, quidem minus debitis sunt
+    dolorem magnam odio, perferendis cum. Veniam neque dolores, illum temporibus laudantium labore nisi ipsam in soluta,
+    quo earum voluptas quasi repellendus! A, non ipsum?
+  </p>
+  <!--this will go to a website when user click "click here to enter"below note that about file is created when user click the link it go on about.html page which i have made -->
+  <!--this is an relative link and can be accessed by creator of website only-->
+  <a href="about.html" target="_main">click here to enter</a>
+  <!--these are hyperlinks  -->
+  <a href="list&table.html" target="_main">click here to enter list</a>
+  <!--this is image attribute in html which will add images on website-->
+  <!--here in src we will give url of image(image will be first uploaded on unsplash api then copy url of image) and if there is error in displaying the image then alt wil get display , further we can use width attribute to specify the size of the image-->
+  <img
+    src="https://images.unsplash.com/photo-1631884284118-a53ef8540111?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=715&q=80"
+    alt="error" width="200px">
+  <!--below is <hr>tag which will help to create a horizontal divider in website-->
+  <hr>
+
+
+  <!--below is <br> tag which will help to enter a new line , we can also use <pre>tag to display all the spaces and new line etc in our website-->
+  <br>
+  <b>Brother hello</b>
+  <!--<b>tag is used to make text bold-->
+  </br>
+  <br>
+  <i>my name is shubham the creator of the website</i>
+  <!--<i>tag is used to make text italic-->
+  </br>
+  <br>
+  <u>i welcome you in this website</u>
+  <!--<u>tag is used to make text underline-->
+  </br>
+  <!--usage of pre tag to print all spaces as well as new line-->
+
+  <pre class="green">
+
+
+      My aim is to provide best content 
+        this channel basically focuse 
+        on creativity of youngsters
+        am the one who focuses on the mankind
+        of the people living in the city 
+        
+    
+</pre>
+  <!-- targetting specific element in CSS -->
+  <p id="mypara">hello this is my paragraph another one hahah</p>
+
+
+
+</body>
+<!--BODY IS CLOSED-->
+
+</html>
+<!--HTML IS CLOSED-->
+<!--more information about the course is given in about.html because there is so much hotch potch in index.html file thats why-->

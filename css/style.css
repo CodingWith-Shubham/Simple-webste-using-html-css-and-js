@@ -1,0 +1,23 @@
+/* basically sari css ki coding yaha style.css me hogi kyuki agar css ki coding bhi index.html me krenge to bhot hotch potch ho jayga isliye yaha par class or elements classify krenge and index.html me apply krenge */
+/* example */
+/*.red{
+    color: blueviolet;
+    background-color: rgb(238, 178, 238);
+}
+.green{
+    background-color: green;
+    color: yellow;*/
+/* } */
+/* ab maine upar ki classes index.html me call krwayi hai  */
+/* for applying background image in our website */
+/* we can also display images in div , paragraph , heading etc or even in any tag of html */
+/*body{
+    background-image: url("images/eye.jpg");
+    background-repeat: no-repeat; /*this will enable no repititions in image */
+    /* background-position: left top; */
+    /* background-attachment: fixed; */
+    /* this will fix the background even if user is scrolling down the page */
+/* } */
+/* pre{ */
+    /* background-image: url("images/bgimg.jpeg"); */
+/* } */
